@@ -7,7 +7,7 @@
 - Lop: 11_DH_THMT
 - Lab: LAB3
 - Moi truong: Windows 11 x64 tren VMware Workstation
-- Video: [DAN LINK VIDEO VAO DAY]
+
 
 ## 1. Cach dung moi truong
 - Su dung may ao Windows 11 x64.
