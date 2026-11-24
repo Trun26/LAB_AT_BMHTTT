@@ -7,7 +7,7 @@
 
 ## Video thực hành
 
-**Link YouTube:** https://youtu.be/npX6mLesMR4
+**Link YouTube:** [Xem video thực hành LAB 6](https://youtu.be/Z68V1QF96vs)
 ## 1. Mục tiêu
 
 - Xây dựng pfSense riêng với bốn interface: WAN, MGMT, LAN_DOMAIN và DMZ.
